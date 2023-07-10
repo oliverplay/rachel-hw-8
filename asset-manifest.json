@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rachel-hw-8/static/css/main.32b64b16.css",
+    "main.js": "/rachel-hw-8/static/js/main.a36d61e6.js",
+    "index.html": "/rachel-hw-8/index.html",
+    "main.32b64b16.css.map": "/rachel-hw-8/static/css/main.32b64b16.css.map",
+    "main.a36d61e6.js.map": "/rachel-hw-8/static/js/main.a36d61e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32b64b16.css",
+    "static/js/main.a36d61e6.js"
+  ]
+}
